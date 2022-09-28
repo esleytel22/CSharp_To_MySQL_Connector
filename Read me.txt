@@ -1,0 +1,5 @@
+Install: MySQL Workbench | MySQL Server Community | MYSQL Installer 
+
+SQL: stucon.stucon 
+
+Link: https://www.youtube.com/watch?v=LuwZy8A77i0
